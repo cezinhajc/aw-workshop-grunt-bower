@@ -1,0 +1,12 @@
+# Ignorar arquivos específicos
+.DS_Store
+
+# Use curingas como
+*~
+*.swp
+
+# Ignorar todos os diretórios e arquivos em um diretório.
+node_modules
+bower_components
+meus_componentes
+producao

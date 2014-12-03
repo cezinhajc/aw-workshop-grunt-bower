@@ -1,0 +1,22 @@
+{
+  "name": "Workshop Grunt e Bower",
+  "version": "1.0.0",
+  "homepage": "http://www.alfamaweb.com.br",
+  "authors": [
+    "Gabriel Manzano <gabriel@alfamaweb.com.br>"
+  ],
+  "description": "Descrição do nosso projeto.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "workshop",
+    "grunt",
+    "bower"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
